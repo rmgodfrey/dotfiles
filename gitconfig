@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ross.m.godfrey@gmail.com
+	name = Ross Godfrey
